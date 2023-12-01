@@ -1,2 +1,2 @@
-# CS50_Python
-CS50 Python
+# CS50 Python
+Inroduction to Programming with Python

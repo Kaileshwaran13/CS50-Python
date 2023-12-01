@@ -2,4 +2,6 @@
 Inroduction to Programming with Python
 
 
-official website = "https://cs50.harvard.edu/python/2022/"
+Official Couese Website = "https://cs50.harvard.edu/python/2022/"
+
+Problem Set Wesite = "https://cs50.harvard.edu/python/2022/psets/"

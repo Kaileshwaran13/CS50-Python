@@ -1,2 +1,2 @@
-Project is about calculation of numbers and its problems by using calculators
-Testing of the project is also done.
+Project is about calculation of numbers and its problems in using calculators
+Testing of the project is also done by the edge cases and by using pytest.

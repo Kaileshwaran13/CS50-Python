@@ -1,0 +1,2 @@
+Project is about calculation of numbers and its problems by using calculators
+Testing of the project is also done.

@@ -1,31 +1,50 @@
-# CS50 Final Project
+Certainly! Here's a basic GitHub README description for your calculator project:
 
-### HI
+---
 
-This is a project based on how calculator works and basic arithmetic operations 
+# String Calculator
 
-We are getting the input as strings 
+This project is a simple calculator implementation that operates on strings, focusing on basic arithmetic operations. The input is provided as strings, and the program determines the operation type through string splitting. The supported operations include:
 
-We are splitting the data to find the operation type
+- Addition (Add)
+- Subtraction (Sub)
+- Multiplication (Mul)
+- Division (Div)
 
-  - Add
-  
-  - Sub
-  
-  - Mul
-  
-  - Div
+The string input is then converted into float-based variables, allowing for decimal values to enhance precision and accuracy in arithmetic calculations.
 
-Then we convert the string data to float based variable 
+## Usage
 
-The decimal values are used to make the arithmetic program more precise and accurate.
+To use the calculator, provide input strings in the following format:
 
-Testing is also done for this project for used models.
+```python
+calculator.calculate("num1 operation num2")
+```
 
-  - AddTest
-  
-  - SubTest
-  
-  - MulTest
-  
-  - DivTest
+Replace "num1" and "num2" with the numerical values you want to operate on and "operation" with one of the supported operations.
+
+Example:
+
+```python
+result = calculator.calculate("5.2 Add 3.8")
+print(result)  # Output: 9.0
+```
+
+## Testing
+
+Testing has been implemented to ensure the accuracy and reliability of the calculator. The following test cases are included:
+
+- Addition Test (AddTest)
+- Subtraction Test (SubTest)
+- Multiplication Test (MulTest)
+- Division Test (DivTest)
+
+Feel free to run the tests to validate the correctness of the calculator implementation.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, find a bug, or want to add new features, feel free to open an issue or submit a pull request.
+
+---
+
+Feel free to customize the README according to your project's specific details and structure.

@@ -39,12 +39,3 @@ Testing has been implemented to ensure the accuracy and reliability of the calcu
 - Multiplication Test (MulTest)
 - Division Test (DivTest)
 
-Feel free to run the tests to validate the correctness of the calculator implementation.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, find a bug, or want to add new features, feel free to open an issue or submit a pull request.
-
----
-
-Feel free to customize the README according to your project's specific details and structure.

@@ -1,27 +1,27 @@
-#### Video Demo: 👀
-
 ---
 
 # String Calculator
 
-This project is a simple calculator implementation that operates on strings, focusing on basic arithmetic operations. The input is provided as strings, and the program determines the operation type through string splitting. The supported operations include:
+#### Video Demo: 👀 [Link to Video Demo]
+
+This project introduces a versatile string calculator, offering a user-friendly interface for basic arithmetic operations using string inputs. Emphasizing simplicity and adaptability, this calculator enables users to perform calculations seamlessly through expressive string-based expressions. The supported arithmetic operations include:
 
 - Addition (Add)
 - Subtraction (Sub)
 - Multiplication (Mul)
 - Division (Div)
 
-The string input is then converted into float-based variables, allowing for decimal values to enhance precision and accuracy in arithmetic calculations.
+To enhance precision and accommodate decimal values in calculations, input strings are intelligently converted into float-based variables.
 
 ## Usage
 
-To use the calculator, provide input strings in the following format:
+Navigating the calculator is intuitive. Input strings using the following format:
 
 ```python
 calculator.calculate("num1 operation num2")
 ```
 
-Replace "num1" and "num2" with the numerical values you want to operate on and "operation" with one of the supported operations.
+Replace "num1" and "num2" with the numerical values for the desired operation, and "operation" with one of the supported operations.
 
 Example:
 
@@ -30,12 +30,19 @@ result = calculator.calculate("5.2 + 3.8")
 print(result)  # Output: 9.0
 ```
 
+Experiment with various numerical inputs and operations to unlock the calculator's potential for a wide range of calculations.
+
 ## Testing
 
-Testing has been implemented to ensure the accuracy and reliability of the calculator. The following test cases are included:
+Ensuring the calculator's accuracy and reliability is a top priority. The test suite covers a spectrum of scenarios:
 
-- Addition Test (AddTest)
-- Subtraction Test (SubTest)
-- Multiplication Test (MulTest)
-- Division Test (DivTest)
+- **Addition Test (AddTest):** Rigorously verifies the correct functionality of addition operations.
+- **Subtraction Test (SubTest):** Assures accurate results for subtraction operations.
+- **Multiplication Test (MulTest):** Validates the correctness of multiplication operations.
+- **Division Test (DivTest):** Confirms the reliability of division operations.
 
+This comprehensive testing approach instills confidence in users regarding the calculator's consistent and accurate performance. Users can rely on these tests for validation, ensuring that the string calculator consistently meets their expectations.
+
+## Customization
+
+For users seeking additional functionality or customization, the calculator's modular design allows for easy expansion. Users can explore extending the calculator's capabilities to suit specific needs or integrate it into more extensive projects. The codebase is open for modifications, encouraging users to tailor the string calculator to their unique requirements.

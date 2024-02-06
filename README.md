@@ -26,7 +26,7 @@ Replace "num1" and "num2" with the numerical values you want to operate on and "
 Example:
 
 ```python
-result = calculator.calculate("5.2 Add 3.8")
+result = calculator.calculate("5.2 + 3.8")
 print(result)  # Output: 9.0
 ```
 

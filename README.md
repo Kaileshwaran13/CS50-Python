@@ -7,13 +7,13 @@ This is a project based on the how calculator works
 We are getting the input as strings 
 
 We are splitting the datas to find the operation type
-  Add
+  - Add
   
-  Sub
+  - Sub
   
-  Mul
+  - Mul
   
-  Div
+  - Div
 
 Then we are converting it to float based variable 
 

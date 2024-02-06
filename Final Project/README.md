@@ -2,8 +2,6 @@
 
 # String Calculator
 
-#### Video : 👀
-
 This project introduces a versatile string calculator, offering a user-friendly interface for basic arithmetic operations using string inputs. Emphasizing simplicity and adaptability, this calculator enables users to perform calculations seamlessly through expressive string-based expressions. The supported arithmetic operations include:
 
 - Addition (Add)

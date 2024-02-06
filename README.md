@@ -22,10 +22,10 @@ The decimal values are used to make the arithmetic program more precise and accu
 
 Testing is also done for this project for used models each.
 
-  - Add
+  - AddTest
   
-  - Sub
+  - SubTest
   
-  - Mul
+  - MulTest
   
-  - Div
+  - DivTest
